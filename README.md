@@ -27,7 +27,7 @@
 
 ###
 
-<!-- كارت باكمان المتحرك اللي هيظهر هنا -->
+<!-- هنا جراف باكمان الأصلي المتحرك اللي هيقرا من الأكشن بتاعك مباشرة -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Basmala194/Basmala194/github-pages/profile-summary-card-output/dark/0-profile-details.svg" alt="Pacman Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Basmala194/Basmala194/main/github-metrics.svg" alt="Pacman Contribution Graph" />
 </div>
