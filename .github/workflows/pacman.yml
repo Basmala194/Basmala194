@@ -2,7 +2,10 @@ name: Generate Pacman Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    # بيشتغل تلقائياً كل 24 ساعة
+    - cron: "0 0 * * *"
+  
+  # بيسمحلك تشغليه بإيدك في أي وقت
   workflow_dispatch:
 
 permissions:
@@ -12,11 +15,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # بيسحب ملفات الريبو
       - uses: actions/checkout@v3
       
-      - name: GitHub Profile Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # الأكشن السحري المخصص لباكمان فقط!
+      - name: Generate Pacman Graph
+        uses: lowlighter/metrics@latest
         with:
-          username: Basmala194
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Basmala194
+          template: classic
+          base: ""
+          # تفعيل جراف باكمان
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          config_order: isocalendar
+          # السطر ده بيجبر الأداة تستخدم تصميم باكمان
+          plugin_isocalendar_theme: pacman
