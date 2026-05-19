@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <!-- تم تعديل الأيقونات لتناسب مهاراتك الفاصلة -->
+  <!-- الأيقونات الخاصة بمهاراتك -->
   <img src="https://skillicons.dev/icons?i=cs,dotnet,py,sql,html,css,js,git" height="60" alt="skills" />
 </div>
 
@@ -20,16 +20,12 @@
 ###
 
 <div align="center">
-  <!-- هنا تم تغيير اليوزر لـ Basmala194 عشان الستريك يظبط -->
   <img src="https://streak-stats.demolab.com?user=Basmala194&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app/?username=Basmala194&theme=dracula&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<!-- هنا جراف باكمان متوجه للأكونت والبرانش بتاعك إنتي -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Basmala194/Basmala194/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Basmala194/Basmala194/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Basmala194/Basmala194/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Basmala194/Basmala194/github-pages/profile-summary-card-output/dark/0-profile-details.svg" alt="Pacman Contribution Graph" />
+</div>
