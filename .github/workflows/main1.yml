@@ -13,12 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
-      - uses: lowlighter/metrics@latest
+
+      - name: Generate Pacman GitHub Contribution Graph
+        uses: jaywcjlove/github-action-package@main
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: Basmala194
-          template: classic
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          theme: pacman
+          target_branch: pacman-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
