@@ -26,7 +26,6 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Basmala194/Basmala194/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Basmala194/Basmala194/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Basmala194/Basmala194/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Basmala194&theme=zenburn">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
 </picture>
