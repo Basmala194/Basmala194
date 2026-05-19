@@ -20,12 +20,14 @@
 ###
 
 <div align="center">
+  <!-- إحصائيات الستريك والجوائز الخاصة بـ Basmala194 -->
   <img src="https://streak-stats.demolab.com?user=Basmala194&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app/?username=Basmala194&theme=dracula&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
+<!-- كارت باكمان المتحرك اللي هيظهر هنا -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Basmala194/Basmala194/github-pages/profile-summary-card-output/dark/0-profile-details.svg" alt="Pacman Contribution Graph" />
 </div>
