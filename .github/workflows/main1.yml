@@ -13,11 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-
-      - name: Generate Pacman GitHub Contribution Graph
-        uses: jaywcjlove/github-action-package@main
-        with:
-          theme: pacman
-          target_branch: pacman-output
+      
+      - name: GitHub Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: Basmala194
