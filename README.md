@@ -27,7 +27,7 @@
 
 ###
 
-<!-- هنا جراف باكمان الأصلي المتحرك اللي هيقرا من الأكشن بتاعك مباشرة -->
+<!-- جراف باكمان الأصفر المتحرك مية مية -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Basmala194/Basmala194/main/github-metrics.svg" alt="Pacman Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Basmala194/Basmala194/output/github-pacman.svg" alt="Pacman Contribution Graph" />
 </div>
