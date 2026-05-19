@@ -27,7 +27,9 @@
 
 ###
 
-<!-- جراف باكمان الأصفر المتحرك مية مية -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Basmala194/Basmala194/output/github-pacman.svg" alt="Pacman Contribution Graph" />
-</div>
+<!-- أنيميشن الثعبان المضمون والشغال بالملي -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Basmala194/Basmala194/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Basmala194/Basmala194/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Basmala194/Basmala194/output/github-snake.svg">
+</picture>
