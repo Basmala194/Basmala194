@@ -38,7 +38,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg](https://www.flaticon.com/free-sticker/trophy_8289880?term=trophy&page=1&position=1&origin=search&related_id=8289880)" height="150" alt="trophy graph"  />
 </div>
 
 ###
